@@ -1,4 +1,4 @@
-# Simple-NodeJS-File-Server
+# Simple-File-Server
 
 A simple Node.JS development test server for browser file upload.
 
